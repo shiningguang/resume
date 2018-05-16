@@ -6,7 +6,9 @@ input[type="text"]:focus{border:1px solid #32dbb3;}
 .mr_created input[type="text"]:focus{border-width:1px;}
 .mr_content input[type="text"]:focus{border:none;}
 .mr_created input{border:none;}
-a:hover{color:#00b88d;}
+a:link{color:#555;}
+a:hover{color:#555;}
+a{text-decoration:none;}
 .fl{float:left;}
 h1, h2, h3, h4, h5 {
 font-weight: normal;
@@ -193,7 +195,7 @@ span.mr_women i.active{background-position:-27px -5px;}
 /* #educationalBackground .mr_moudle_content{padding-bottom:15px;} */
 .mr_wo_show{padding:13px 18px 46px 42px;background-color:#00b88d;margin-bottom:38px;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
 .mr_wo_show p{line-height:26px;color:#fff;}
-.mr_self_site{color:#fff;margin-bottom:8px;font-size:24px;}
+.mr_self_site{color:#fff;margin-bottom:8px;font-size:16px;}
 .mr_self_sitelink {text-decoration:none;/* display:inline-block;width:558px; */word-break:break-all;color: #00b88d;}
 .mr_self_sitelink:hover{color:#fff;}
 .mr_wo_show .mr_c_r_t em{color:#50f9d2;}
