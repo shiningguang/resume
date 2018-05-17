@@ -1,0 +1,63 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
+}
+.resumeBox{
+    padding: 15px 10px;
+    color: #666;
+}
+
+
+.resumeBox label{
+    top: 33px;
+    width: 33px;
+    height: 32px;
+    line-height: 23px;
+    font-size: 18px;
+    text-align: left;
+    font-family: Roboto;
+
+}
+.resumeBox p{
+    top: 222px;
+    width: 97px;
+    height: 30px;
+    line-height: 23px;
+    font-size: 16px;
+    text-align: left;
+    font-family: Roboto;
+}
+
+.phoneNum{
+    padding-left: 10px;
+    font-size: 16px;
+    text-align: left;
+    font-family: Roboto;
+}
+.resumeBox content{
+    left: 17px;
+    top: 252px;
+    width: 324px;
+    height: 80px;
+    line-height: 20px;
+    color: rgba(16, 16, 16, 1);
+    font-size: 16px;
+    text-align: left;
+    font-family: Roboto;
+}
